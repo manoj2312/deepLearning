@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="966789cc-a893-47ff-8af6-1246f07d8f11" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008670.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008700.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008730.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008760.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008790.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008820.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008850.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008880.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008910.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008940.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_008970.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_009990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/0001TP_010380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f00990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f01980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02670.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02700.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02730.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02760.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02790.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02820.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02850.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02880.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02910.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02940.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f02970.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f03990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f04980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f05010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f05040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f05070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/test/Seq05VD_f05100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008670.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008700.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008730.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008760.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008790.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008820.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008850.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008880.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008910.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008940.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_008970.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_009990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/0001TP_010380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f00990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f01980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02670.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02700.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02730.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02760.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02790.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02820.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02850.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02880.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02910.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02940.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f02970.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f03990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f04980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f05010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f05040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f05070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/testannot/Seq05VD_f05100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_006990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_007980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0001TP_008520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f00930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f00960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f00990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f01980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02670.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02700.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02730.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02760.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02790.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02820.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02850.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02880.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02910.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02940.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f02970.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0006R0_f03930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00901.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_00990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_01980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_02400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_04980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05670.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05700.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05730.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05760.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05790.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05820.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05850.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05880.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05910.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05940.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_05970.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_06990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_07920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/train/0016E5_08640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_006990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_007980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0001TP_008520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f00930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f00960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f00990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f01980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02670.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02700.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02730.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02760.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02790.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02820.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02850.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02880.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02910.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02940.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f02970.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0006R0_f03930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00901.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_00990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_01980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_02400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04950.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_04980.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05010.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05040.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05070.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05130.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05160.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05670.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05700.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05730.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05760.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05790.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05820.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05850.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05880.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05910.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05940.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_05970.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06000.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06030.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06060.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06090.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06210.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06270.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06300.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06330.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06390.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06420.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06450.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06480.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06510.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06540.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06570.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06600.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06630.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06660.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06690.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06720.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06750.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06780.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06810.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06840.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06870.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06900.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06930.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06960.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_06990.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07020.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07050.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07080.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07110.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07140.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07170.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07200.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07230.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07260.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07290.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07320.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07350.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07380.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07410.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07440.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07470.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07500.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07530.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07560.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07620.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07650.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07680.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07710.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07740.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07770.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07800.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07830.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07860.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07890.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_07920.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08190.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08220.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08250.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08280.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08340.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08370.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08430.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08460.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08490.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08520.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08550.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08580.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08610.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/trainannot/0016E5_08640.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07959.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07961.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07963.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07965.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07967.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07969.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07971.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07973.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07975.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07977.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07979.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07981.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07983.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07985.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07987.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07989.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07991.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07993.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07995.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07997.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_07999.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08003.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08007.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08009.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08011.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08013.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08017.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08019.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08021.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08023.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08025.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08027.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08029.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08031.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08033.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08035.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08037.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08039.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08041.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08043.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08045.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08047.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08049.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08051.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08053.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08055.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08057.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08059.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08061.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08063.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08065.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08067.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08069.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08071.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08073.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08075.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08077.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08079.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08081.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08083.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08085.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08087.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08089.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08091.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08093.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08095.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08097.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08099.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08101.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08103.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08105.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08107.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08109.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08111.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08113.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08115.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08117.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08119.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08121.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08125.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08127.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08129.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08131.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08135.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08137.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08139.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08141.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08143.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08145.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08147.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08149.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08151.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08153.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08155.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08157.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/val/0016E5_08159.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07959.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07961.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07963.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07965.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07967.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07969.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07971.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07973.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07975.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07977.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07979.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07981.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07983.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07985.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07987.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07989.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07991.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07993.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07995.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07997.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_07999.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08001.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08003.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08005.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08007.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08009.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08011.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08013.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08015.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08017.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08019.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08021.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08023.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08025.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08027.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08029.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08031.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08033.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08035.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08037.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08039.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08041.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08043.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08045.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08047.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08049.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08051.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08053.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08055.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08057.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08059.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08061.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08063.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08065.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08067.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08069.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08071.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08073.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08075.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08077.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08079.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08081.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08083.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08085.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08087.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08089.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08091.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08093.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08095.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08097.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08099.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08101.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08103.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08105.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08107.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08109.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08111.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08113.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08115.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08117.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08119.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08121.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08125.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08127.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08129.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08131.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08133.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08135.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08137.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08139.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08141.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08143.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08145.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08147.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08149.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08151.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08153.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08155.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08157.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CamVid/valannot/0016E5_08159.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CamVid/test.txt" afterPath="$PROJECT_DIR$/CamVid/test.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CamVid/train.txt" afterPath="$PROJECT_DIR$/CamVid/train.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CamVid/val.txt" afterPath="$PROJECT_DIR$/CamVid/val.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Models/segnet_basic_solver.prototxt" afterPath="$PROJECT_DIR$/Models/segnet_basic_solver.prototxt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Models/segnet_basic_train.prototxt" afterPath="$PROJECT_DIR$/Models/segnet_basic_train.prototxt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/compute_bn_statistics.py" afterPath="$PROJECT_DIR$/Scripts/compute_bn_statistics.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scripts/test_segmentation_camvid.py" afterPath="$PROJECT_DIR$/Scripts/test_segmentation_camvid.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="compute_bn_statistics.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/compute_bn_statistics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="segnet_solver.prototxt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/segnet_solver.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="segnet_basic_train.prototxt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/segnet_basic_train.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="manoj_basic_train.prototxt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Models/manoj_basic_train.prototxt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3435">
+              <caret line="229" column="12" lean-forward="true" selection-start-line="229" selection-start-column="12" selection-end-line="229" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>net</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deepLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deepLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deepLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deepLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deepLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="deepLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deepLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deepLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deepLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deepLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="deepLearning" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deepLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deepLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deepLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deepLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="deepLearning" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="966789cc-a893-47ff-8af6-1246f07d8f11" name="Default" comment="" />
+      <created>1493070738786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493070738786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Scripts/compute_bn_statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/segnet_solver.prototxt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/segnet_basic_train.prototxt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/manoj_basic_train.prototxt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3435">
+          <caret line="229" column="12" lean-forward="true" selection-start-line="229" selection-start-column="12" selection-end-line="229" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

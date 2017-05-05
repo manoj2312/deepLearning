@@ -7,7 +7,7 @@ from argparse import ArgumentParser
 
 
 
-caffe_root = '/SegNet/caffe-segnet/' 			# Change this to the absolute directoy to SegNet Caffe
+caffe_root = '/home/manu/caffe-segnet/' 			# Change this to the absolute directoy to SegNet Caffe
 import sys
 sys.path.insert(0, caffe_root + 'python')
 
@@ -160,7 +160,7 @@ def make_parser():
 
 
 if __name__ == '__main__':
-    caffe.set_mode_gpu()
+    caffe.set_mode_cpu()
     p = make_parser()
     args = p.parse_args()
 
